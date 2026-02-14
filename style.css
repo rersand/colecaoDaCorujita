@@ -2,11 +2,11 @@ body{
     background-color: rgb(56, 55, 55);
 }
 
-nav {
+nav{
   position: fixed;
-  top: 0;
+  top:   0;
   width: 100%;
-  background-color: #333;
+  background-color: #e80000;
   padding: 15px;
   color: white;
 }
