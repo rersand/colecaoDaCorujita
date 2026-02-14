@@ -1,10 +1,11 @@
 body{
-    background-color: rgb(56, 55, 55);
+    background-color: rgb(102, 102, 102);
 }
 
 nav{
   position: fixed;
   top:   0;
+  left: 0;
   width: 50px;
-  background-color: #e80000;
+  background-color: #343434;
 }
