@@ -1,10 +1,3 @@
 body{
     background-color: rgb(102, 102, 102);
 }
-
-nav{
-  width: 200px;
-  display: flex;  
-  align-items: center;
-  height: 200px;
-}
