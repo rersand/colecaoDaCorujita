@@ -24,3 +24,9 @@ nav img {
     height: 40px;
     object-fit: cover;
 }
+.navbarTop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #222;
+}
