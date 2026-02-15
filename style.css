@@ -1,5 +1,6 @@
 body{
     background-color: rgb(102, 102, 102);
+    margin: 0px;
 }
 .navbarFloat{
     display: flex;  
@@ -29,6 +30,6 @@ nav img {
     height: 100px;
     align-items: center;
     background-color: rgb(255, 255, 255);
-    
+
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
