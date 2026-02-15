@@ -26,6 +26,7 @@ nav img {
 }
 .navbarTop{
     display: flex;
+    height: 100px;
     justify-content: space-between;
     align-items: center;
     background: #222;
