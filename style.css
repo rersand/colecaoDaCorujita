@@ -3,15 +3,6 @@ body{
 }
 
 nav{
-  position: fixed;
-  top:   0;
-  left: 0;
-
-  width: 50px;
+  width: 200px;
   background-color: #343434;
-}
-
-main {
-  margin-left: 170px; 
-  padding: 20px;
 }
