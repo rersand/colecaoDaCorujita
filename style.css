@@ -1,7 +1,7 @@
 body{
     background-color: rgb(102, 102, 102);
 }
-nav{
+.navbarFloat{
     display: flex;  
     align-items: center;  
     height: 100px;
