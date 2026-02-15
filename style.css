@@ -2,8 +2,7 @@ body{
     background-color: rgb(102, 102, 102);
 }
 nav{
-    display: flex;
-    justify-content: center;   
+    display: flex;  
     align-items: center;  
     height: 100px;
     background-color: gold;
