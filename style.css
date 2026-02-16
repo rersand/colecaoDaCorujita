@@ -33,6 +33,8 @@ nav li {
     align-items: center;
     background-color:blueviolet;
     margin: 0px;
+    gap: 20px;
+    justify-content: space-between;
 
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
