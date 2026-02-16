@@ -21,10 +21,11 @@ nav li {
     margin: 0 15px;
 }
 
-.navbarTopImg {
+.navbarFloatImg {
     width: 40px;
     height: 40px;
     object-fit: cover;
+    margin-left: 10px;
 }
 .navbarTop{
     display: flex;
