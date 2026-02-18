@@ -18,7 +18,7 @@ ul {
     padding: 0;
 }
 
-.navbarFloatImg {
+.navbarFloatImg{
     height: 300px;
     width: 300px;
     object-fit: cover;
