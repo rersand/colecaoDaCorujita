@@ -5,7 +5,6 @@ body{
 .navbarFloat{
     display: flex;  
     align-items: center;  
-    height: all;
     background-color:brown;
     margin: 0px;
 }
