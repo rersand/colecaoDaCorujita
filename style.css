@@ -22,7 +22,6 @@ ul {
     height: 300px;
     width: 300px;
     object-fit: cover;
-    gap: 50px;
 }
 .navbarTop{
     display: flex;
