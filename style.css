@@ -11,20 +11,18 @@ body{
 
 nav ul {
     list-style: none;    
-    padding: 0; 
-    margin: 0;
+    display: flex;
+    gap: 20px;
 }
 
 nav li {
-    display:flex;
-    margin: 0 15px;
 }
 
 .navbarFloatImg {
     height: 100px;
     width: 100px;
     object-fit: cover;
-    margin-left: 10px;
+    gap: 50px;
 }
 .navbarTop{
     display: flex;
