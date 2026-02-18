@@ -32,3 +32,12 @@ ul {
     background-color:rgb(255, 255, 255);
     gap: 500px;
 }
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.Corujinha{
+    align-content: center;
+    width: 400px;
+    height: 400px;
+}
