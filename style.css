@@ -21,8 +21,8 @@ nav li {
 }
 
 .navbarFloatImg {
-    width: 40px;
-    height: 40px;
+    height: 100px;
+    width: auto;
     object-fit: cover;
     margin-left: 10px;
 }
