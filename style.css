@@ -22,7 +22,7 @@ nav li {
 
 .navbarFloatImg {
     height: 100px;
-    width: auto;
+    width: 100px;
     object-fit: cover;
     margin-left: 10px;
 }
