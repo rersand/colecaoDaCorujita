@@ -11,7 +11,7 @@ body{
 
 ul {
     display: grid;
-    grid-template-columns: repeat(2, 767px);
+    grid-template-columns: repeat(2, 765px);
     gap: 20px;
     list-style: none;
     margin: 0px;
