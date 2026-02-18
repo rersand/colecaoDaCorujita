@@ -11,7 +11,7 @@ body{
 
 ul {
     display: grid;
-    grid-template-columns: repeat(2, 500px);
+    grid-template-columns: repeat(2, 550px);
     gap: 20px;
     list-style: none;
     margin: 0px;
@@ -19,8 +19,8 @@ ul {
 }
 
 .navbarFloatImg{
-    height: 450px;
-    width: 450px;
+    height: 500px;
+    width: 500px;
     object-fit: cover;
 }
 .navbarTop{
